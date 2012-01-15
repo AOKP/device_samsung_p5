@@ -1,6 +1,6 @@
 #!/bin/sh
 
-BASE=../../../vendor/samsung/p5wifi/proprietary
+BASE=../../../vendor/samsung/p5/proprietary
 LOCALBASE=~/MyAndroidSystem3G
 rm -rf $BASE/*
 
