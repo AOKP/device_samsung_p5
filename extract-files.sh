@@ -1,6 +1,6 @@
 #!/bin/sh
 
-BASE=../../../vendor/samsung/p5wifi/proprietary
+BASE=../../../vendor/samsung/p5/proprietary
 rm -rf $BASE/*
 
 for FILE in `cat proprietary-files.txt`; do
