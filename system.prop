@@ -6,6 +6,12 @@ wifi.interface=eth0
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttys0
 keyguard.no_require_sim=yes
+ro.telephony.ril.v3=signalstrength,usehcradio
+ro.telephony.ril_class=SamsungHCRIL
+
+ro.com.google.clientidbase=android-samsung
+ro.com.google.clientidbase.gmm=android-samsung
+ro.com.google.clientidbase.yt=android-samsung
 
 #Samung HWLCD Rotation
 ro.sf.hwrotation=90

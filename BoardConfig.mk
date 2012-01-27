@@ -16,6 +16,8 @@
 
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
+BOARD_USES_HC_RADIO := true
+
 # Include p5-common
 -include device/samsung/p5-common/BoardConfigCommon.mk
 
