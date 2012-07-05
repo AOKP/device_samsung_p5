@@ -16,3 +16,10 @@ ro.com.google.clientidbase.yt=android-samsung
 
 #Samung HWLCD Rotation
 ro.sf.hwrotation=90
+
+# hardware info
+ro.device.cpu=1.0GHz NVIDIA Tegra 2 250 T20
+ro.device.gpu=NVIDIA ULP GeForce
+ro.device.rear_cam=3.1 MP
+ro.device.front_cam=1.9 MP
+ro.device.screen_res=1280x800
